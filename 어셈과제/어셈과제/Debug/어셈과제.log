@@ -1,0 +1,7 @@
+﻿  my_assembler_00000000.c
+D:\강의\3학년1학기\시스템 프로그래밍\HW\my_assembler_00000000.c(118,16): warning C4477: 'fscanf' : 서식 문자열 '%X'에 'unsigned int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'unsigned char *'입니다.
+D:\강의\3학년1학기\시스템 프로그래밍\HW\my_assembler_00000000.c(118,16): message : 서식 문자열에서 '%hhX'을(를) 사용하는 것이 좋습니다.
+D:\강의\3학년1학기\시스템 프로그래밍\HW\my_assembler_00000000.c(148,8): warning C4101: 'file' :참조되지 않은 지역 변수입니다.
+D:\강의\3학년1학기\시스템 프로그래밍\HW\my_assembler_00000000.c(167): warning C4716: 'token_parsing': 값을 반환해야 합니다.
+D:\강의\3학년1학기\시스템 프로그래밍\HW\my_assembler_00000000.c(180): warning C4716: 'search_opcode': 값을 반환해야 합니다.
+  어셈과제.vcxproj -> C:\Users\offic\source\repos\어셈과제\Debug\어셈과제.exe
